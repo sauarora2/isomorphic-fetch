@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/kweiberth/react-todo-list.git"
   },
-  "author": "Saurabh",
+  "author": "Saurabh Arora",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0",
