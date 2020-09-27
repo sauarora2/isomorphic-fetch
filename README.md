@@ -1,3 +1,1 @@
-# react-todo-list
-
-This is a simple todo list app built with React, Redux and Webpack. I built this app during my [tutorial series on YouTube](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg).
+# this created a SPA (Single page application) where first render happens on the server and after that it uses react-router and everything is rendered on the client after the first render.
